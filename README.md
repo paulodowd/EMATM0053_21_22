@@ -39,7 +39,7 @@ Previous students have produced skillful, innovative, and insightful work.  The 
 # Teaching Team:
 
 <table>
-<tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/me_shorthair_bw_scaled.png?raw=true">Paul O'Dowd</a>, Unit Director</td></tr>
+<tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/me_shorthair_bw_scaled.png?raw=true"></td><td><a href="https://www.bristol.ac.uk/people/person/Paul-O'Dowd-d54e9ad6-41de-4eef-81c6-1ee227ced8dc/">Paul O'Dowd</a>, Unit Director</td></tr>
       <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Alex Smith, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Chris Bennett, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Pernilla Craig, Teaching Assistant</td></tr>
