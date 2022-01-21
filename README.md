@@ -41,12 +41,7 @@ Previous students have produced skillful, innovative, and insightful work.  The 
 <table>
 <tr><td><img width="150px" src="https://media-exp1.licdn.com/dms/image/C4D03AQF0NTkKRAj1zw/profile-displayphoto-shrink_800_800/0/1601493011557?e=1638403200&v=beta&t=BRlixjUjpO5xkqezOYENqDICBVpHJWqf_204xTQV-SI"></td><td><a href="https://www.bristol.ac.uk/people/person/Paul-O'Dowd-d54e9ad6-41de-4eef-81c6-1ee227ced8dc/">Paul O'Dowd</a>, Unit Director</td></tr>
   <tr><td><img height="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/Merihan.png?raw=true"></td><td><a href="https://www.farscope.bris.ac.uk/merihan-alhafnawi">Merihan Alhafnawi</a>, Teaching Assistant</td></tr>
-    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/Saba.png?raw=true"></td><td>Saba Firouznia, Teaching Assistant</td></tr>
-    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/Yifan.jpg?raw=true"></td><td>Yifan Xing, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Alex Smith, Teaching Assistant</td></tr>
-    <tr><td><img width="150px" src="https://lirp.cdn-website.com/051f8efe/dms3rep/multi/opt/Peter+Wharton-480w.png"></td><td>Peter Wharton, Teaching Assistant</td></tr>
-    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/Liam.JPG?raw=true"></td><td><a href="https://www.farscope.bris.ac.uk/liam-fletcher">Liam Fletcher</a>, Teaching Assistant</td></tr>
-    <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/Julian.jpg?raw=true"></td><td>Julian Hird, Teaching Assistant</td></tr>
     <tr><td><img width="150px" src="https://github.com/paulodowd/EMATM0053_21_22/blob/main/images/BlankPortrait.png?raw=true"></td><td>Chris Bennett, Teaching Assistant</td></tr>
 </table>
 
