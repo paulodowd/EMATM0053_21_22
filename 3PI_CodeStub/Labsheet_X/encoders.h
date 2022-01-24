@@ -15,8 +15,8 @@ volatile byte state_e1;
 
 
 
-// This ISR handles just Encoder 1
-// ISR to read the Encoder1 Channel A and B pins
+// This ISR handles just Encoder 0
+// ISR to read the Encoder0 Channel A and B pins
 // and then look up based on  transition what kind of
 // rotation must have occured.
 ISR( INT6_vect ) {
@@ -60,12 +60,10 @@ ISR( INT6_vect ) {
 }
 
 
-// This ISR handles just Encoder 0
+// This ISR handles just Encoder 1
 // ISR to read the Encoder0 Channel A and B pins
 // and then look up based on  transition what kind of
 // rotation must have occured.
-
-
 ISR( PCINT0_vect ) {
  
     // First, Read in the new state of the encoder pins.
